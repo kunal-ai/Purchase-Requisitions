@@ -1,0 +1,23 @@
+{
+  "documentType": "Purchase Requisition",
+  "requisitionNumber": "057",
+  "requisitionDate": "2026-10-07",
+  "itemName": "Server Tray",
+  "itemCode": "SRV-NV-1-V2",
+  "quantity": 5,
+  "dateNeeded": "2026-11-11",
+  "projectCode": "MT-012",
+  "department": "PRODUCTION-02",
+  "bomNumber": "SR-VG-16-V2",
+  "description": "SERVER TRAYS FOR SITE MT-012-NW",
+  "remarks": "Approved new design",
+  "approvals": {
+    "userApproval": true,
+    "hodApproval": true
+  },
+  "meta": {
+    "createdAt": "2026-10-07 19:37:51",
+    "createdBy": "Kunal Verma",
+    "version": "1.0"
+  }
+}
